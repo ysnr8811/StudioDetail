@@ -1,0 +1,17 @@
+//
+//  StudioDetailApp.swift
+//  StudioDetail
+//
+//  Created by 藤井康範 on 2025/02/27.
+//
+
+import SwiftUI
+
+@main
+struct StudioDetailApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
