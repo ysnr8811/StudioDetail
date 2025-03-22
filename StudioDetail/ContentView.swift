@@ -137,3 +137,10 @@ struct PrivacyPolicyView: View {
         Text("PRIVACY POLICY") // PRIVACY POLICYビューの内容
     }
 }
+
+// プレビューの表示
+struct Content_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
